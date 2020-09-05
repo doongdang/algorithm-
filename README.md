@@ -1,5 +1,11 @@
-# Algorithm
+# Algorithm with Python3
 
-### 1. DFS
+### Examples
 
-### 2. BFS
+---
+
+### Implement
+
+##### DFS
+##### BFS
+
