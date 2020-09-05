@@ -1,5 +1,5 @@
 # Algorithm
 
-### DFS
+### 1. DFS
 
-### BFS
+### 2. BFS
