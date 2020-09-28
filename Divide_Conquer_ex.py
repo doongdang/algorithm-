@@ -1,3 +1,4 @@
+# O(n)
 def p1(a, n):
     if n == 1:
         return a
@@ -8,6 +9,8 @@ def p1(a, n):
         return p1(a, n//2)*p1(a, n//2)
     else:
         return p1(a, n//2)*p1(a, n//2)*a
+
+# O(log(n))
 
 
 def p2(a, n):
